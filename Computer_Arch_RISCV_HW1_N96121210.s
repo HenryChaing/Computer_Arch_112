@@ -1,10 +1,10 @@
 .data
-arr:      .word 6,9,25
-str1:     .string "The normalization for number "
-str2:     .string " is 1."
-str3:     .string "\n"
-str4:     .string " * 2^"
-str5:     .string "please ignore 0b\n"
+    arr:      .word 6,9,25
+    str1:     .string "The normalization for number "
+    str2:     .string " is 1."
+    str3:     .string "\n"
+    str4:     .string " * 2^"
+    str5:     .string "please ignore 0b\n"
 
 .text
 main:
